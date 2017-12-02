@@ -14,6 +14,12 @@ function multiply(a,b){
 }
 
 function divide(a,b){
-  var result = a / b 
+  var result = a / b
   return result
 }
+
+function inc(a){
+  var result = a++
+  return result
+}
+
