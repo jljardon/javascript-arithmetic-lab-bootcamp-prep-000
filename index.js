@@ -4,7 +4,7 @@ function add(a,b){
 }
 
 function subtract(a,b){
-  var result = a - b 
+  var result = a - b
   return result
 }
 
@@ -18,8 +18,8 @@ function divide(a,b){
   return result
 }
 
-function inc(a){
-  var result = a+1
+function inc(n){
+  var result = n+1
   return result
 }
 
