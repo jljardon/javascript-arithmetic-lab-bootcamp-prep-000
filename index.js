@@ -3,8 +3,8 @@ function add(a,b){
   return result
 }
 
-function substract(a,b){
-  var result = a-b
+function subtract(a,b){
+  var result = a - b 
   return result
 }
 
