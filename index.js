@@ -19,7 +19,7 @@ function divide(a,b){
 }
 
 function inc(a){
-  var result = a++
+  var result = a+1
   return result
 }
 
