@@ -27,4 +27,3 @@ function dec(a){
   var result = a--
   return result
 }
-
